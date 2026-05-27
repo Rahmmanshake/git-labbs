@@ -1,0 +1,1 @@
+vm size and memory changes
